@@ -1,0 +1,17 @@
+Steps performed for this task:
+
+1.	Fisrt I access my directory (my directory c/wamp/www/myproject)
+2.	 Then I opened git bash in project
+3.	 $  git init  (for initializing git repository in c:/wamp/www/myproject/.git/)
+4.	 Then I signup on github and create a repository ‘task’
+5.	 $ git config --global user.name   “MShahbaz786”
+6.	 $ git config --global user.email   ‘’mshahbaz1013@gmail.com’’
+7.	 $ git config --global --list (to view the information I entered.)
+8.	 $ touch .gitignore (In this we can write files name which we want to ignore but I did’nt made it
+9.	 .$ git add .   (to add all files to my repository)
+10.	 $ git commit  - m “any msg here” (Record changes to the repository)
+11.	 $ git status (to check the status for my knowledge)
+12:      $  git remote add origin https://github.com/MShahbaz786/task.git
+
+12.	 $ git push -u origin master and finally its done
+
